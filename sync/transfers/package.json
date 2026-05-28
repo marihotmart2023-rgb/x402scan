@@ -34,7 +34,7 @@
     "bottleneck": "^2.19.5",
     "facilitators": "workspace:*",
     "p-limit": "^7.2.0",
-    "ws": "^8.18.3"
+    "ws": "^8.20.1"
   },
   "devDependencies": {
     "@trigger.dev/build": "4.0.5",
